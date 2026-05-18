@@ -1,0 +1,28 @@
+[
+  {
+    "id": "440e3e9e-7ab1-4d34-a954-6f0a6bc1acc1",
+    "title": "A big assignment for real learners",
+    "description": "An introductory walkthrough showing the platform in action with adaptive HLS streaming.",
+    "hlsUrl": "http://localhost:8000/uploads/courses/440e3e9e-7ab1-4d34-a954-6f0a6bc1acc1/index.m3u8",
+    "thumbnailUrl": "http://localhost:8000/uploads/thumbnails/440e3e9e-7ab1-4d34-a954-6f0a6bc1acc1.jpg",
+    "createdAt": 1747542000000
+  },
+  {
+    "id": "72f39d37-2f97-4a37-b9e0-99ccd6772c11",
+    "title": "Aari Aari Song Dhurandhar",
+    "description": "",
+    "sourcePath": "uploads/file-ccf08745-49a3-412e-ab8c-c4126f2e5696.mp4",
+    "hlsUrl": "http://localhost:8000/uploads/courses/72f39d37-2f97-4a37-b9e0-99ccd6772c11/index.m3u8",
+    "thumbnailUrl": "http://localhost:8000/uploads/thumbnails/72f39d37-2f97-4a37-b9e0-99ccd6772c11.jpg",
+    "createdAt": 1779084189265
+  },
+  {
+    "id": "1f1a6d40-bd92-458a-b609-627c3c1a2ea6",
+    "title": "Welcome Comedy",
+    "description": "",
+    "sourcePath": "uploads/file-e62c7db6-dbee-42f1-8e02-49b8e542cea6.mp4",
+    "hlsUrl": "http://localhost:8000/uploads/courses/1f1a6d40-bd92-458a-b609-627c3c1a2ea6/index.m3u8",
+    "thumbnailUrl": "http://localhost:8000/uploads/thumbnails/1f1a6d40-bd92-458a-b609-627c3c1a2ea6.jpg",
+    "createdAt": 1779084744024
+  }
+]
