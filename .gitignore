@@ -1,2 +1,9 @@
 node_modules/
 .env
+
+# OS junk
+.DS_Store
+
+# Runtime / user-generated content
+uploads/
+test_videos/
